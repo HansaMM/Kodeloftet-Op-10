@@ -46,7 +46,9 @@ h1 {
 }
 
 .multi-step {
-
+  border: solid;
+  background-color: red;
+  display: flex;
 
 }
 
