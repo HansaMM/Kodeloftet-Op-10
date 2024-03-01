@@ -87,7 +87,7 @@ text-align: center;
  display: grid;
  row-gap: 24px;
  text-align: center;
- 
+ box-sizing: content-box;
 
 
 }
