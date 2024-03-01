@@ -89,8 +89,6 @@ text-align: center;
 }
 
 .info-pos {
-  display: flex;
-  border: 700px;
-  
+  display: auto;
  
  }
