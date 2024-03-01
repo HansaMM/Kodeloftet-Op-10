@@ -87,3 +87,10 @@ text-align: center;
  
 
 }
+
+.info-pos {
+  display: flex;
+  text-align: center;
+  
+ 
+ }
