@@ -66,7 +66,7 @@ h1 {
   border-color: yellow;
   display: flex;
   width: 100px;
-  border-image-outset: 40px;
+  border-image-outset: 7px 12px 14px 5px;
 
 }
 
