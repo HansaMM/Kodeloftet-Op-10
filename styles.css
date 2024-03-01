@@ -48,22 +48,30 @@ h1 {
 .multi-step {
   border: solid;
   background-color: red;
+  border-color: yellow;
   display: flex;
 
 }
 
-.meny-del-meny-nåverende {
+.meny-del {
   border: solid;
-
-}
-
-
-.Memdlemskap {
-
+  background-color: blue;
+  border-color: yellow;
+  display: flex;
+  width: 100px;
 
 }
 
 .Memdlemskap-Q {
+  border: solid;
+  border-color: yellow;
+  
+
+}
+
+
+
+.Memdlemskap {
 
 
 }
