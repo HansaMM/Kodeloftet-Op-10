@@ -74,7 +74,7 @@ h1 {
   border: solid;
   border-color: yellow;
   background-color: white;
-  height: 425px;
+  height: 455px;
 
 }
 
@@ -85,5 +85,8 @@ text-align: center;
 
 .list-pos {
  display: grid;
+ row-gap: 24px;
+ text-align: center;
+
 
 }
