@@ -51,7 +51,7 @@ h1 {
   background-color: red;
   border-color: yellow;
   display: flex;
-  padding: 10px;
+  padding: 5px;
   gap: 10px;
   max-width: 600px;
   align-items: center;
@@ -74,7 +74,7 @@ h1 {
   border: solid;
   border-color: yellow;
   background-color: white;
-  height: 455px;
+  height: 495px;
 
 }
 
