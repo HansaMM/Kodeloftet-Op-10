@@ -52,7 +52,8 @@ h1 {
   display: flex;
   padding: 10px;
   gap: 10px;
-
+  max-width: 600px;
+  
 }
 
 .meny-del {
@@ -62,11 +63,13 @@ h1 {
   display: flex;
   width: 100px;
 
+
 }
 
 .Memdlemskap-Q {
   border: solid;
   border-color: yellow;
+  background-color: white;
   
 
 }
