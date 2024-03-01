@@ -55,6 +55,7 @@ h1 {
   gap: 10px;
   max-width: 600px;
   align-items: center;
+
   
   
 }
@@ -79,5 +80,12 @@ h1 {
 
 .Memdlemskap {
 text-align: center;
+
+}
+
+.list-pos {
+  display: flex;
+  max-height: 100px;
+  max-width: 100px;
 
 }
