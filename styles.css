@@ -16,8 +16,8 @@ nav {
   justify-content: center;
   padding: 0.5rem;
   gap: 0.5rem;
-  border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  border-bottom: solid 1px white;
+  background-color: red;
 }
 
 nav a {
@@ -53,6 +53,8 @@ h1 {
   padding: 10px;
   gap: 10px;
   max-width: 600px;
+  align-items: center;
+  
   
 }
 
@@ -77,6 +79,6 @@ h1 {
 
 
 .Memdlemskap {
-
+text-align: center;
 
 }
