@@ -90,5 +90,6 @@ text-align: center;
 
 .info-pos {
   display: auto;
+  display: block;
  
  }
