@@ -53,7 +53,7 @@ h1 {
   display: flex;
   padding: 5px;
   gap: 45px;
-  max-width: 700px;
+  max-width: 690px;
   align-items: center;
   
 }
@@ -90,6 +90,6 @@ text-align: center;
 
 .info-pos {
   display: auto;
-  display: block;
+  text-align: center;
  
  }
