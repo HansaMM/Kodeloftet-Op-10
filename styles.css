@@ -74,6 +74,7 @@ h1 {
 .meny-del > p {
   display: flex;
   display: column;
+  justify-content: left;
 }
 
 .meny-del-2 {
