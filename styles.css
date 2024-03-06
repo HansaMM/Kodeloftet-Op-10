@@ -58,6 +58,7 @@ h1 {
   max-width: 730px;
   align-items: center;
   
+  
 }
 
 
@@ -130,7 +131,7 @@ text-align: center;
 
 .info-pos {
   padding: 5px;
- 
+  justify-content: center;
   
   
  
