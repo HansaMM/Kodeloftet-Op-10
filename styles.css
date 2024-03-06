@@ -65,14 +65,17 @@ h1 {
   background-color: blue;
   border-color: yellow;
   display: flex;
-  width: 100px;
+  width: 50px;
   border-radius: 90%;
+  height: 50px;
   justify-content: center;
+  text-align: center;
 
 }
 
 .meny-del {
   display: flex;
+  gap: 5px;
   
 }
 
