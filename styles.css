@@ -99,6 +99,11 @@ h1 {
  
 }
 
+.meny-del-2 > div > h1 {
+  font-weight: bold;
+  color: red;
+}
+
 .meny-del-2 {
   border: solid;
   border-color: yellow;
