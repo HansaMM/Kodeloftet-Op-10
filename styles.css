@@ -55,7 +55,7 @@ h1 {
   display: flex;
   padding: 5px;
   gap: 45px;
-  max-width: 680px;
+  max-width: 730px;
   align-items: center;
   
 }
@@ -96,7 +96,7 @@ h1 {
 .meny-del {
   display: flex;
   gap: 15px;
-  
+ 
 }
 
 .meny-del-2 {
