@@ -9,10 +9,6 @@ body {
   background-color: white;
 }
 
-ol {
-  list-style: circle;
-}
-
 nav {
   display: flex;
   flex-wrap: wrap;
@@ -64,7 +60,7 @@ h1 {
   
 }
 
-.meny-del {
+.meny-del > p {
   border: solid;
   background-color: blue;
   border-color: yellow;
@@ -73,6 +69,12 @@ h1 {
   border-radius: 70%;
   justify-content: center;
 
+}
+
+.meny-del {
+  display: flex;
+  width: 100px;
+  border-radius: 70%;
 }
 
 .meny-del-2 {
