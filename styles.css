@@ -68,8 +68,8 @@ h1 {
 }
 
 .meny-del > div > .meny-navn {
-  
- 
+  font-weight: lighter;
+  color: gray;
 }
 
 
