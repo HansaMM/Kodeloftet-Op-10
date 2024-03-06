@@ -99,11 +99,6 @@ h1 {
  
 }
 
-.meny-del-2 > div > h1 {
-  font-weight: bold;
-  color: red;
-}
-
 .meny-del-2 {
   border: solid;
   border-color: yellow;
@@ -112,6 +107,11 @@ h1 {
   border-radius: 10px;
   display: column;
  
+}
+
+.meny-del-2 > div > h1 {
+  font-weight: bold;
+  color: red;
 }
 
 .Memdlemskap {
