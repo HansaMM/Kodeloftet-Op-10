@@ -9,6 +9,10 @@ body {
   background-color: white;
 }
 
+ol {
+  list-style: circle;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
