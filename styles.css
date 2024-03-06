@@ -63,7 +63,7 @@ h1 {
 
 
 .meny-del > div > p .meny-steg {
-  text: bold;
+  font-weight: bold;
  
 }
 
