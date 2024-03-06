@@ -66,6 +66,8 @@ h1 {
   border-color: yellow;
   display: flex;
   width: 100px;
+  border-radius: 50%;
+  justify-content: center;
 
 }
 
