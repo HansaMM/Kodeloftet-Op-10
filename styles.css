@@ -68,8 +68,12 @@ h1 {
   width: 100px;
   border-radius: 70%;
   justify-content: center;
-  display: column;
 
+}
+
+.meny-del > p {
+  display: flex;
+  display: column;
 }
 
 .meny-del-2 {
