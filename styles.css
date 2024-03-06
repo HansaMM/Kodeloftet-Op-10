@@ -107,6 +107,7 @@ h1 {
   height: 495px;
   border-radius: 10px;
   display: column;
+  row-gap: 20px;
  
 }
 
