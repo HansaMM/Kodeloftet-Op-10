@@ -85,6 +85,7 @@ h1 {
   background-color: white;
   height: 495px;
   border-radius: 1px;
+  display: column;
  
 }
 
