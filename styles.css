@@ -28,13 +28,13 @@ nav a {
   border-radius: 0.2rem;
   border: solid 1px #aaa;
   text-align: center;
-  text-decoration: black;
-  background-color: #555;
+  background-color: blue;
+  
 }
 
 nav a[aria-current='page'] {
   color: #000;
-  background-color: #555;
+  background-color: blue;
 }
 
 main {
