@@ -71,16 +71,6 @@ h1 {
 
 }
 
-.meny-del > p {
-  border: solid;
-  background-color: blue;
-  border-color: yellow;
-  display: flex;
-  width: 10px;
-  border-radius: 99%;
-  justify-content: center;
-}
-
 .meny-del-2 {
   border: solid;
   border-color: yellow;
