@@ -159,8 +159,11 @@ h1 {
 
 .info-pos {
   margin: 25%;
-  row-gap: 5px;
  }
+
+.info-pos > div {
+  display: flex;
+}
 
  footer {
   border: solid;
