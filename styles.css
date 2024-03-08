@@ -14,6 +14,36 @@ body > main > h1 {
   color: red;
 }
 
+.meny-nåverende-1 .meny-click-1 > p {
+ background-color: aqua;
+ color: black;
+ border-color: orangered;
+
+}
+
+.meny-nåverende-2 .meny-click-2 > p {
+  background-color: aqua;
+  color: black;
+  border-color: orangered;
+  
+}
+
+.meny-nåverende-3 .meny-click-3 > p {
+  background-color: aqua;
+  color: black;
+  border-color: orangered;
+  
+}
+
+.meny-nåverende-4 .meny-click-4 > p {
+  background-color: aqua;
+  color: black;
+  border-color: orangered;
+  
+}
+
+
+
 nav {
   display: flex;
   flex-wrap: wrap;

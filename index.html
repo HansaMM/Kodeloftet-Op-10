@@ -28,7 +28,7 @@
 
       <section class="multi-step meny-nåverende-1" >
         <ol class="list-pos">
-          <li class="meny-del meny-click-1">
+          <li onclick="setStage(1)" class="meny-del meny-click-1">
             <p>1</p>
            <div class="meny-text">
              <p class="meny-steg">Del 1</p>
@@ -36,7 +36,7 @@
            </div>
           </li> 
 
-          <li class="meny-del meny-click-2 ">
+          <li onclick="setStage(2)" class="meny-del meny-click-2 ">
             <p>2</p>
             <div class="meny-text">
               <p class="meny-steg">Del 2</p>
@@ -44,7 +44,7 @@
             </div>
            </li>
 
-           <li class="meny-del meny-click-3">
+           <li onclick="setStage(3)" class="meny-del meny-click-3">
             <p>3</p>
             <div class="meny-text">
               <p class="meny-steg">Del 3</p>
@@ -52,7 +52,7 @@
             </div>
            </li>
 
-           <li class="meny-del meny-click-4">
+           <li onclick="setStage(4)" class="meny-del meny-click-4">
             <p>4</p>
             <div class="meny-text">
               <p class="meny-steg">Del 4</p>
@@ -87,8 +87,8 @@
             </div>
           </div>
           
-           <div onclick="next" class="button-pos" >
-             <button>Neste Side</button>
+           <div class="button-pos" >
+            <button onclick="setStage(2)">Neste Side</button>
            </div>
         </div>
       
@@ -118,8 +118,8 @@
           </div>
           
            <div class="button-pos" >
-             <button onclick="back" >Tilbake</button>
-             <button onclick="next" >Neste Side</button>
+             <button onclick="setStage(1)">Tilbake</button>
+             <button onclick="setStage(3)">Neste Side</button>
            </div>
         </div>
       
