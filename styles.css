@@ -163,6 +163,7 @@ h1 {
 
 .info-pos > div {
   display: flex;
+  row-gap: 20px;
 }
 
  footer {
