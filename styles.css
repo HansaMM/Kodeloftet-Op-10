@@ -138,6 +138,7 @@ h1 {
  row-gap: 24px;
  text-align: column;
  max-width: 140px;
+ height: fit-content;
  
 
 }
@@ -153,7 +154,7 @@ h1 {
   border: solid;
   display: flex;
   min-width: 9rem;
-  padding: 0.5rem;
+  padding: 25px;
   border-radius: 0.2rem;
   border: solid 2px yellow;
   background-color: red;
