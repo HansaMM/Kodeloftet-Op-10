@@ -109,9 +109,8 @@ h1 {
   border: solid;
   border-color: yellow;
   background-color: white;
-  height: 495px;
   border-radius: 10px;
-
+  padding: 5px;
   
 }
 
@@ -125,8 +124,14 @@ h1 {
   border-color: yellow;
   background-color: rgb(0, 60, 255);
   padding: 5px;
-  object-position: right bottom;
-} 
+  
+}
+
+.meny-del-2 > .button-pos {
+  display: flex;
+  justify-content: end;
+}
+
 
 .Memdlemskap {
  text-align: center;
