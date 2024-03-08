@@ -165,6 +165,8 @@ h1 {
   align-items: center;
   justify-content: center;
   text-align: center;
+  row-gap: 5px;
+  text-emphasis-position: over right;
 }
 
  footer {
