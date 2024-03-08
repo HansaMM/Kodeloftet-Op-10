@@ -154,6 +154,7 @@ h1 {
 .info-pos > div {
   display: flex;
   align-items: center;
+  row-gap: 10px;
 } 
 
  footer {
