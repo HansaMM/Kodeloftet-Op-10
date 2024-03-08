@@ -139,6 +139,7 @@ h1 {
  text-align: column;
  max-width: 140px;
  height: fit-content;
+ content: inherit;
  
 
 }
