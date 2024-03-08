@@ -140,7 +140,7 @@ h1 {
 
 .list-pos {
  display: grid;
- row-gap: 24px;
+ row-gap: 5px;
  text-align: column;
  max-width: 140px;
  
@@ -150,7 +150,8 @@ h1 {
 
 .info-pos {
   margin: 20%;
-  
+  position: relative;
+  text-emphasis-position: top;
   
  }
 
