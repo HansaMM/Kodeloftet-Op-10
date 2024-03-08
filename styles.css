@@ -62,7 +62,7 @@ h1 {
   gap: 45px;
   max-width: 730px;
   align-items: center;
-  
+  border-radius: 10px;
   
 }
 
@@ -111,6 +111,7 @@ h1 {
   background-color: white;
   height: 495px;
   border-radius: 10px;
+
   
 }
 
@@ -135,8 +136,6 @@ h1 {
 
 .info-pos {
   padding: 5px;
-  max-width: 526px;
-  
-  
+ 
   
  }
