@@ -131,7 +131,15 @@ h1 {
 .meny-del-2 > .button-pos {
   display: flex;
   justify-content: end;
+
 }
+
+.meny-del-2 > .info-pos > div {
+  display: flex;
+  align-items: center;
+  row-gap: 10px;
+} 
+
 
 
 .Memdlemskap {
@@ -152,12 +160,6 @@ h1 {
 .info-pos {
   margin: 25%;
  }
-
-.info-pos > div {
-  display: flex;
-  align-items: center;
-  row-gap: 10px;
-} 
 
  footer {
   border: solid;
