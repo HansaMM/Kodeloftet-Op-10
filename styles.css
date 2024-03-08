@@ -135,7 +135,6 @@ h1 {
 }
 
 .meny-del-2 > .info-pos > div {
-  display: flex;
   align-items: center;
   row-gap: 10px;
 } 
