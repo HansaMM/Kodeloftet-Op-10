@@ -60,11 +60,10 @@ h1 {
   display: flex;
   padding: 5px;
   gap: 45px;
-  max-width: 730px;
+  max-width: 1000px;
   align-items: center;
   border-radius: 10px;
- display: center;
-  
+  margin: 20%;
 }
 
 
