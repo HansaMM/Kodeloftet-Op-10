@@ -63,8 +63,7 @@ h1 {
   max-width: 730px;
   align-items: center;
   border-radius: 10px;
-  position: relative;
-  justify-content: center;
+ display: center;
   
 }
 
