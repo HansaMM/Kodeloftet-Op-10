@@ -159,6 +159,7 @@ h1 {
 
 .info-pos {
   margin: 25%;
+  row-gap: 5px;
  }
 
  footer {
