@@ -61,7 +61,6 @@ h1 {
   padding: 5px;
   gap: 45px;
   max-width: 1000px;
-  align-items: center;
   border-radius: 10px;
   margin: 20%;
 }
@@ -153,8 +152,8 @@ h1 {
  }
 
 .info-pos > div {
-  
-  
+  display: flex;
+  align-items: center;
 } 
 
  footer {
