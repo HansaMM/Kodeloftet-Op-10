@@ -120,6 +120,12 @@ h1 {
   color: red;
 }
 
+.meny-del-2 > div > button {
+  border-radius: 1%;
+  display: flex;
+  justify-content: end;
+} 
+
 .Memdlemskap {
  text-align: center;
 
