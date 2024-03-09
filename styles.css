@@ -26,12 +26,23 @@ body > main > h1 {
 
 }
 
+.meny-nåverende-1 .info-pos.steg-1 {
+
+
+}
+
 .meny-nåverende-2 .meny-click-2 > p {
   background-color: aqua;
   color: black;
   border-color: orange;
   
 }
+
+.meny-nåverende-2 .info-pos.steg-2 {
+
+  
+}
+
 
 .meny-nåverende-3 .meny-click-3 > p {
   background-color: aqua;
@@ -40,6 +51,12 @@ body > main > h1 {
   
 }
 
+.meny-nåverende-1 .info-pos.steg-1 {
+
+  
+}
+
+
 .meny-nåverende-4 .meny-click-4 > p {
   background-color: aqua;
   color: black;
@@ -47,6 +64,11 @@ body > main > h1 {
   
 }
 
+.meny-nåverende-1 .info-pos.steg-1 {
+
+  
+}
+s
 
 
 nav {
