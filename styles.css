@@ -26,7 +26,7 @@ body > main > h1 {
 
 }
 
-.meny-nåverende-1 .info-pos .steg-1 {
+.meny-nåverende-1 .info-pos.steg-1 {
 
 
 }
@@ -38,7 +38,7 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-2 .info-pos .steg-2 {
+.meny-nåverende-2 .info-pos.steg-2 {
 
   
 }
@@ -51,7 +51,7 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-1 .info-pos .steg-3 {
+.meny-nåverende-1 .info-pos.steg-3 {
 
   
 }
@@ -64,11 +64,11 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-1 .info-pos .steg-4 {
+.meny-nåverende-1 .info-pos.steg-4 {
 
   
 }
-s
+
 
 
 nav {
