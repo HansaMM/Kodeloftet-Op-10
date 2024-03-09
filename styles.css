@@ -10,6 +10,11 @@ body {
 
 }
 
+ol {
+  list-style-type: none;
+  padding: 0px;
+}
+
 body > main > h1 {
   color: red;
 }
@@ -17,28 +22,28 @@ body > main > h1 {
 .meny-nåverende-1 .meny-click-1 > p {
  background-color: aqua;
  color: black;
- border-color: orangered;
+ border-color: orange;
 
 }
 
 .meny-nåverende-2 .meny-click-2 > p {
   background-color: aqua;
   color: black;
-  border-color: orangered;
+  border-color: orange;
   
 }
 
 .meny-nåverende-3 .meny-click-3 > p {
   background-color: aqua;
   color: black;
-  border-color: orangered;
+  border-color: orange;
   
 }
 
 .meny-nåverende-4 .meny-click-4 > p {
   background-color: aqua;
   color: black;
-  border-color: orangered;
+  border-color: orange;
   
 }
 

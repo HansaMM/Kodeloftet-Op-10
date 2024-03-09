@@ -9,4 +9,6 @@ function setStage(newStage) {
  const newClass = "meny-nåverende" + newStage
  form.classList.add(newClass)
 
+
+ 
 }
