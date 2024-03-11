@@ -27,7 +27,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-1 .info-pos.steg-1 {
- display: flex;
+ 
 
 }
 
@@ -39,7 +39,6 @@ body > main > h1 {
 }
 
 .meny-nåverende-2 .info-pos.steg-2 {
-  display: flex;
   
 }
 
@@ -52,7 +51,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-3 .info-pos.steg-3 {
-  display: flex;
+  
   
 }
 
@@ -65,7 +64,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-4 .info-pos.steg-4 {
-  display: flex;
+  
   
 }
 
