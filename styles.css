@@ -26,7 +26,7 @@ body > main > h1 {
 
 }
 
-.meny-nåverende-1 .info-pos-plan.steg-1 {
+.meny-nåverende-1 .meny-del-2.steg-1 {
  display: flex;
 
 }
@@ -38,7 +38,7 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-2 .info-pos-plan.steg-2 {
+.meny-nåverende-2 .meny-del-2.steg-2 {
   display: flex;
 }
 
@@ -50,7 +50,7 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-3 .info-pos-plan.steg-3 {
+.meny-nåverende-3 .meny-del-2.steg-3 {
   display: flex;
   
 }
@@ -63,7 +63,7 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-4 .info-pos-plan.steg-4 {
+.meny-nåverende-4 .meny-del-2.steg-4 {
   display: flex;
   
 }
