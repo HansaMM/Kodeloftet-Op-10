@@ -160,6 +160,8 @@ h1 {
  
 }
 
+
+
 .meny-del-2 {
   border: solid;
   border-color: yellow;
@@ -169,11 +171,6 @@ h1 {
   width: 800px;
   
 }
-
-.meny-del-2 > .meny-nåverende-2 {
-  display: none;
- 
- }
 
 .meny-del-2 > div > hi {
   font-weight: bold;
