@@ -39,7 +39,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-2 .info-pos.steg-2 {
-  
+  display: flex;
 }
 
 
