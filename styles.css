@@ -39,7 +39,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-2 .info-pos.steg-2 {
-  display: flex;
+  
 }
 
 
@@ -116,7 +116,7 @@ h1 {
   display: flex;
   padding: 5px;
   gap: 45px;
-  max-width: 1000px;
+  max-width: 600px;
   border-radius: 10px;
   margin: 20%;
 }
@@ -161,6 +161,7 @@ h1 {
 }
 
 .meny-del-2 {
+  
   border: solid;
   border-color: yellow;
   background-color: white;
