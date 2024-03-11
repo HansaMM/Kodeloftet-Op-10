@@ -160,9 +160,8 @@ h1 {
  
 }
 
-.meny-del-2 { }
-
 .meny-del-2 {
+  display: none;
   border: solid;
   border-color: yellow;
   background-color: white;
