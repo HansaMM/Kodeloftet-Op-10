@@ -108,8 +108,7 @@ nav > a > image {
  display: left;
 }
 
-nav > a > image > textarea {
-  background-color: blue;
+nav > a > image > text {
   color: red;
 }
 
