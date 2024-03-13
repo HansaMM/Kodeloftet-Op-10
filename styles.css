@@ -110,6 +110,7 @@ nav > a > image {
 
 nav > a > image > textarea {
   background-color: blue;
+  color: red;
 }
 
 main {
