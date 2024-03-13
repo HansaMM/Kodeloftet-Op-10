@@ -104,6 +104,10 @@ nav a[aria-current='page'] {
   background-color: blue;
 }
 
+nav > a > image {
+ display: left;
+}
+
 main {
   padding: 1rem;
 }
