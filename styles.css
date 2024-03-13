@@ -108,6 +108,10 @@ nav > a > image {
  display: left;
 }
 
+nav > a > image > textarea {
+  background-color: blue;
+}
+
 main {
   padding: 1rem;
 }
