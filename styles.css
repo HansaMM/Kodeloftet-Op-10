@@ -194,6 +194,11 @@ h1 {
 
 }
 
+.meny-del-2.side-3 > .button-pos {
+  display: flex;
+  justify-content: space-between;
+}
+
 .Memdlemskap {
  text-align: center;
 
