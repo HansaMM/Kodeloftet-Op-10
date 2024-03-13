@@ -216,6 +216,15 @@ h1 {
 
 }
 
+.info-pos {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  row-gap: 10px;
+  text-emphasis-position: over right;
+
+}
+
  footer {
   border: solid;
   display: flex;
