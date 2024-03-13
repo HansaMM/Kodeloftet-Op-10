@@ -29,14 +29,9 @@ body > main > h1 {
  border-color: orange;
 
 }
-
 .meny-nåverende-1 .side-1 {
- display: block;
-}
-
-.meny-nåverende-2 .side-2 {
   display: block;
- }
+}
 
 .meny-nåverende-2 .meny-click-2 > p {
   background-color: aqua;
@@ -44,11 +39,9 @@ body > main > h1 {
   border-color: orange;
   
 }
-
-.meny-nåverende-2 .info-pos.steg-2 {
+.meny-nåverende-2 .side-2 {
   display: block;
-}
-
+ }
 
 .meny-nåverende-3 .meny-click-3 > p {
   background-color: aqua;
@@ -56,11 +49,9 @@ body > main > h1 {
   border-color: orange;
   
 }
-
-.meny-nåverende-3 .info-pos.steg-3 {
+.meny-nåverende-3 .side-3 {
   display: block;
-  
-}
+ }
 
 
 .meny-nåverende-4 .meny-click-4 > p {
@@ -69,11 +60,10 @@ body > main > h1 {
   border-color: orange;
   
 }
-
-.meny-nåverende-4 .info-pos.steg-4 {
+.meny-nåverende-4 .side-4 {
   display: block;
-  
-}
+ }
+
 
 
 
@@ -175,7 +165,7 @@ h1 {
  
 }
 
-.meny-del-2 > .info-pos-plan.steg-1 {
+.meny-del-2 > .info-pos-plan.{
   border: solid;
   border-color: yellow;
   background-color: white;
