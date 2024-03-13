@@ -205,10 +205,10 @@ h1 {
 }
 
 .info-pos-plan {
-  margin: 25%;
+  margin: 94px;
  }
 
-.iinfo-pos-plan > div {
+.info-pos-plan > div {
   align-items: center;
   justify-content: center;
   text-align: center;
