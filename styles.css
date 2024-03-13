@@ -199,9 +199,7 @@ h1 {
  row-gap: 5px;
  text-align: column;
  max-width: 150px;
- margin: 20px;
- 
- 
+ margin: 5px;
 
 }
 
@@ -213,8 +211,9 @@ h1 {
   align-items: center;
   justify-content: center;
   text-align: center;
-  row-gap: 5px;
+  row-gap: 10px;
   text-emphasis-position: over right;
+
 }
 
  footer {
