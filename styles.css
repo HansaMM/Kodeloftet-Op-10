@@ -199,6 +199,7 @@ h1 {
  row-gap: 5px;
  text-align: column;
  max-width: 150px;
+ margin: 20px;
  
  
 
@@ -206,8 +207,7 @@ h1 {
 
 .info-pos-plan {
   margin: 107px;
-  max-width: 500px;
- }
+}
 
 .info-pos-plan > div {
   align-items: center;
