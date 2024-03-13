@@ -19,6 +19,10 @@ body > main > h1 {
   color: red;
 }
 
+.meny-del-2 {
+  display: none;
+}
+
 .meny-nåverende-1 .meny-click-1 > p {
  background-color: aqua;
  color: black;
@@ -160,7 +164,7 @@ h1 {
  
 }
 
-.meny-del-2 {
+.meny-del-2 > .info-pos-plan.steg-1 {
   border: solid;
   border-color: yellow;
   background-color: white;
