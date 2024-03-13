@@ -27,7 +27,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-1 .info-pos-plan.steg-1 {
- display: flex;
+ display: absolute;
 
 }
 
@@ -38,8 +38,8 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-2 .meny-del-2.steg-2 {
-  display: flex;
+.meny-nåverende-2 .info-pos.steg-2 {
+  display: absolute;
 }
 
 
@@ -50,8 +50,8 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-3 .meny-del-2.steg-3 {
-  display: flex;
+.meny-nåverende-3 .info-pos.steg-3 {
+  display: absolute;
   
 }
 
@@ -63,8 +63,8 @@ body > main > h1 {
   
 }
 
-.meny-nåverende-4 .meny-del-2.steg-4 {
-  display: flex;
+.meny-nåverende-4 .info-pos.steg-4 {
+  display: absolute;
   
 }
 
