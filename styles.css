@@ -30,10 +30,13 @@ body > main > h1 {
 
 }
 
-.meny-nåverende-1 .info-pos-plan.steg-1 {
- display: absolute;
- 
+.meny-nåverende-1 .side-1 {
+ display: block;
 }
+
+.meny-nåverende-2 .side-2 {
+  display: block;
+ }
 
 .meny-nåverende-2 .meny-click-2 > p {
   background-color: aqua;
@@ -43,7 +46,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-2 .info-pos.steg-2 {
-  display: absolute;
+  display: block;
 }
 
 
@@ -55,7 +58,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-3 .info-pos.steg-3 {
-  display: absolute;
+  display: block;
   
 }
 
@@ -68,7 +71,7 @@ body > main > h1 {
 }
 
 .meny-nåverende-4 .info-pos.steg-4 {
-  display: absolute;
+  display: block;
   
 }
 
