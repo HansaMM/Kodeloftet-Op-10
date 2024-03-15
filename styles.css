@@ -77,6 +77,10 @@ h1 {
   font-size: 1.5rem;
 }
 
+.søk {
+  border: solid 2px yellow;
+  background-color: blue;
+}
 
  footer {
   border: solid;
