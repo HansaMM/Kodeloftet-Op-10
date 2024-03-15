@@ -130,6 +130,10 @@
    text-emphasis-position: over right;
  
  }
+
+.meny-del-2.side-2 > .button-pos {
+  justify-content: space-between;
+}
  
 .info-pos {
    align-items: center;
