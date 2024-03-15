@@ -131,7 +131,7 @@
  
  }
  
- .info-pos {
+.info-pos {
    align-items: center;
    justify-content: center;
    text-align: center;
@@ -139,6 +139,14 @@
    text-emphasis-position: over right;
  
  }
+
+.input-pos {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  row-gap: 5px;
+}
 
  .multi-step {
     border: solid;
@@ -151,8 +159,6 @@
     border-radius: 10px;
     margin: 20%;
   }
-  
-  
   
   .meny-del > div > .meny-steg {
     font-weight: bold;
