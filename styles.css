@@ -54,7 +54,7 @@ nav > a > image {
 }
 
 nav > a > image > h1 {
-  color: red;
+  text-decoration-color: red;
 }
 
 main {
