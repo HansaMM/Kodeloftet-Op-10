@@ -70,8 +70,8 @@ nav > a > image > h1 {
 .logo {
   display: flex;
   gap: 5px;
-  width: 380px;
-  height: 150px;
+  width: 330px;
+  height: 120px;
 }
 
 main {
