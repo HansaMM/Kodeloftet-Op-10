@@ -61,18 +61,7 @@ nav > a image {
   justify-content: end;
 }
 
-nav > a > image > h1 {
-  display: flex;
-  position: right;
-  justify-content: end;
-}
 
-.logo {
-  display: flex;
-  gap: 5px;
-  width: 330px;
-  height: 120px;
-}
 
 main {
   padding: 1rem;
