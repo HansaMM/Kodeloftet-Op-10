@@ -55,6 +55,12 @@ nav > a > image {
  justify-content: left;
 }
 
+nav > a image {
+  display: right;
+  position: right;
+  justify-content: end;
+}
+
 nav > a > image > h1 {
   display: flex;
   position: right;
@@ -64,7 +70,8 @@ nav > a > image > h1 {
 .logo {
   display: flex;
   gap: 5px;
-  width: 300px;
+  width: 380px;
+  height: 150px;
 }
 
 main {
