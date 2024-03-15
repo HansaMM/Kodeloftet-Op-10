@@ -11,7 +11,154 @@
     <link rel="stylesheet" href="styles.css" />
     <script src="script.js"></script>
   </head>
+  
+  <body>
+    <nav>
+      <a>
+        <img 
+        alt="logo.png" 
+        src="https://img9.custompublish.com/getfile.php/4976275.2969.ljznqkwiw7buki/logo.png" >
+        Bergens Arbeiderparti av NKP
+      </a>
+      <a href="/" aria-current="page">Hjem</a>
+      <a href="/page2.html">Other page</a>
+      <a href="https://peppy-basbousa-5b1252.netlify.app/">Avisen Friheten</a>
+        <div> 
+          <label for="Søk">Søk</label>
+            <input type="innhold" id="sider" placeholder="Søk" > </input>
+        </div>
+    </nav> 
 
+    <main>
+      <h1>Hjem</h1>
+
+      <section id="multi-step" class="multi-step meny-nåverende-1" >
+        <ol class="list-pos">
+          <li onclick="setStage(1)" class="meny-del meny-click-1">
+            <p>1</p>
+           <div class="meny-text">
+             <p class="meny-steg">Del 1</p>
+             <p class="meny-navn">Din Info</p>
+           </div>
+          </li>
+
+          <li onclick="setStage(2)" class="meny-del meny-click-2 ">
+            <p>2</p>
+            <div class="meny-text">
+              <p class="meny-steg">Del 2</p>
+              <p class="meny-navn">Arbeidsliv</p>
+            </div>
+           </li>
+
+           <li onclick="setStage(3)" class="meny-del meny-click-3">
+            <p>3</p>
+            <div class="meny-text">
+              <p class="meny-steg">Del 3</p>
+              <p class="meny-navn">Politikk</p>
+            </div>
+           </li>
+
+           <li onclick="setStage(4)" class="meny-del meny-click-4">
+            <p>4</p>
+            <div class="meny-text">
+              <p class="meny-steg">Del 4</p>
+              <p class="meny-navn">Kontigent</p>
+            </div>
+          </li>
+        </ol>
+
+        <div class="meny-del-2 side-1" >
+          <div class="Memdlemskap" >
+            <p>Medlemskapssøknad</p>
+            <hi>NORGES KOMMUNITISKE PARTI</hi>
+            <p>Personlig Info</p>
+          </div>
+           
+          <div class="info-pos-plan steg-1">
+            <div>
+               <label for="navn">Navn:</label>
+               <input type="text" id="navn" placeholder="Ole Norman" > </input>
+            </div>
+            <div>
+               <label for="adresse">Adresse:</label>
+               <input type="text" id="adresse" placeholder="Norman Gate 15" >
+            </div>
+            <div>
+               <label for="post/sted">Post:</label>
+               <input type="text" id="nummer" placeholder="5054 Bergen" >
+            </div>
+            <div>
+               <label for="fødsel">Fødselsdato:</label>
+               <input type="text" id="fødselsdato" placeholder="12.06.1945" >
+            </div>
+          </div>
+          
+           <div class="button-pos" >
+            <button onclick="setStage(2)">Neste Side</button>
+           </div>
+        </div>
+      
+        <div class="meny-del-2 side-2" >
+          <div class="Memdlemskap" >
+            <p>Medlemskapssøknad</p>
+            <p>Arbeidsliv</p>
+          </div>
+           
+          <div onclick="setStage(2)" class="info-pos steg-2">
+            <div>
+               <label for="stilling">Stilling:</label>
+               <input type="text" id="stilling" placeholder="Redaktør" > </input>
+            </div>
+            <div>
+               <label for="fagforening">Fagforening:</label>
+               <input type="text" id="fagforening" placeholder="Handel og Kontor" >
+            </div>
+            <div>
+               <label for="avdeling">Avdeling:</label>
+               <input type="text" id="avdeling" placeholder="Web utvikling" >
+            </div>
+            <div>
+               <label for="arbeidsplass">Arbeidsplass:</label>
+               <input type="text" id="arbeidsplass" placeholder="Avisen Friheten" >
+            </div>
+          </div>
+          
+           <div class="button-pos" >
+             <button onclick="setStage(1)">Tilbake</button>
+             <button onclick="setStage(3)">Neste Side</button>
+           </div>
+        </div>
+      
+        <div class="meny-del-2 side-3" >
+          <div class="Memdlemskap" >
+            <p>Medlemskapssøknad</p>
+            <p>Politisk erfaringer, alt fra ordinere tillitsverv til medlemskap i andre politisk organisasjoner.</p>
+          </div>
+           
+          <div onclick="setStage(3)" class="info-pos steg-3">
+            <div>
+               <label for="Tidligere Medlemskap">Tidligere Medlemskap:</label>
+               <textarea name="textarea" rows="15" cols="50" placeholder="Skriv din egen politisk erfaringer her" ></textarea>
+            </div>
+          </div>
+          
+           <div class="button-pos" >
+             <button onclick="setStage(2)">Tilbake</button>
+             <button onclick="setStage(4)">Neste Side</button>
+           </div>
+        </div>
+      
+      
+      
+      
+      
+      </section>
+    </main>
+   
+   <footer>
+
+
+   </footer> 
   
   </body>
 </html>
