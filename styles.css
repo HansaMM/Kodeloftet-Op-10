@@ -63,6 +63,7 @@ nav > a > image > h1 {
 
 .logo {
   display: flex;
+  gap: 5px;
 }
 
 main {
