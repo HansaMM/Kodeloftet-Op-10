@@ -98,6 +98,11 @@
    justify-content: end;
  
  }
+
+ .meny-del-2.side-2 {
+  display: flex;
+   justify-content: space-between;
+ }
  
  .meny-del-2.side-3 > .button-pos {
    display: flex;
