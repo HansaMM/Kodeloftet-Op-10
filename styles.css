@@ -66,29 +66,6 @@ h1 {
   font-size: 1.5rem;
 }
 
-.multi-step {
-  border: solid;
-  background-color: red;
-  border-color: yellow;
-  display: flex;
-  padding: 5px;
-  gap: 45px;
-  max-width: 600px;
-  border-radius: 10px;
-  margin: 20%;
-}
-
-
-
-.meny-del > div > .meny-steg {
-  font-weight: bold;
- 
-}
-
-.meny-del > div > .meny-navn {
-  font-weight: lighter;
-  color: gray;
-}
 
  footer {
   border: solid;
