@@ -51,6 +51,8 @@ nav a[aria-current='page'] {
 
 nav > a > image {
  display: left;
+ position: left;
+ justify-content: left;
 }
 
 main {
