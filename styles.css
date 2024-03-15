@@ -40,7 +40,7 @@ nav a {
   border: solid 2px yellow;
   text-align: center;
   background-color: blue;
-  color: black;
+  color: white;
   
 }
 
@@ -51,10 +51,6 @@ nav a[aria-current='page'] {
 
 nav > a > image {
  display: left;
-}
-
-nav > a > image > h1 {
-  text-decoration-color: red;
 }
 
 main {
