@@ -65,6 +65,7 @@ nav > a image {
   display: flex;
   gap: 5px;
   width: 300px;
+  height: 155px;
 }
 
 main {
