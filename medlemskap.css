@@ -140,14 +140,6 @@
  
  }
 
-.input-pos {
-  display: grid;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  row-gap: 5px;
-}
-
  .multi-step {
     border: solid;
     background-color: red;
