@@ -55,6 +55,12 @@ nav > a > image {
  justify-content: left;
 }
 
+nav > a > image > h1 {
+  display: flex;
+  position: right;
+  justify-content: end;
+}
+
 main {
   padding: 1rem;
 }
