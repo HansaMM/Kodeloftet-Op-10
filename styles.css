@@ -53,7 +53,7 @@ nav > a > image {
  display: left;
 }
 
-nav > a > image > text {
+nav > a > image > h1 {
   color: red;
 }
 
