@@ -61,6 +61,10 @@ nav > a image {
   justify-content: end;
 }
 
+nav > h2 {
+  color: white;
+}
+
 .logo {
   display: flex;
   gap: 5px;
