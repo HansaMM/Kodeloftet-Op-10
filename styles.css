@@ -65,7 +65,7 @@ nav > h2 {
   color: white;
 }
 
- nav > div > .søk {
+ nav > div > button {
   border: solid 2px yellow;
   background-color: blue;
   color: white;
