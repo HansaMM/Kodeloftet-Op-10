@@ -63,9 +63,15 @@ nav > a image {
 
 nav > h2 {
   color: white;
- 
-  
 }
+
+.søk {
+  border: solid 2px yellow;
+  background-color: blue;
+  color: white;
+  border-radius: 0.2rem;
+}
+
 
 .logo {
   display: flex;
@@ -81,13 +87,6 @@ main {
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
-}
-
-.søk {
-  border: solid 2px yellow;
-  background-color: blue;
-  color: white;
-  border-radius: 0.2rem;
 }
 
 section {
