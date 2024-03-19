@@ -89,7 +89,19 @@ h1 {
   border-radius: 0.2rem;
 }
 
- footer {
+section {
+  border: solid;
+  display: flex;
+  min-width: 9rem;
+  padding: 25px;
+  border-radius: 0.2rem;
+  border: solid 2px yellow;
+  background-color: red;
+}
+
+
+
+footer {
   border: solid;
   display: flex;
   min-width: 9rem;
