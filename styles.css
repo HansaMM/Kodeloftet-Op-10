@@ -90,6 +90,10 @@ h1 {
   
 }
 
+.im-m {
+  justify-content: center;
+}
+
 section {
   border: solid;
   display: flex;
