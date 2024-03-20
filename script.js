@@ -11,29 +11,30 @@ function setStage(newStage) {
  
 }
 
-var slideIndex = 1;
-showDivs(slideIndex);
+var currentImage = 1;
+showDivs(currentImage);
 
 function plusDivs(n) {
-  showDivs(slideIndex += n);
+  showDivs(currentImage += n);
 }
 
 function currentDiv(n) {
-  showDivs(slideIndex = n);
+  showDivs(currentImage = n);
 }
 
-function showDivs(n) {
-  var i;
+function showDivs(slideNumber) {
+  var let;
+
   var x = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("demo");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
+  if (slideNumber > x.length) {currentImage = 1}    
+  if (slideNumber < 1) {currentImage = x.length}
+  for (let = 0; let < x.length; let++) {
+    x[let].style.display = "none";  
   }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" w3-red", "");
+  for (let = 0; let < dots.length; let++) {
+    dots[let].className = dots[let].className.replace(" w3-red", "");
   }
-  x[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " w3-red";
+  x[currentImage-1].style.display = "block";  
+  dots[currentImage-1].className += " w3-red";
 }
