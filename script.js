@@ -18,7 +18,7 @@ setInterval(
     function () {
         plusDivs(1)
     },
-    5000
+    10000
 )
 
 function plusDivs(n) {
