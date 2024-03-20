@@ -23,18 +23,21 @@ function currentDiv(n) {
 }
 
 function showDivs(slideNumber) {
-  var let;
+  let i;
 
-  var x = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  if (slideNumber > x.length) {currentImage = 1}    
-  if (slideNumber < 1) {currentImage = x.length}
-  for (let = 0; let < x.length; let++) {
-    x[let].style.display = "none";  
+  let slideElements = document.getElementsByClassName("mySlides");
+
+  let dotsElements = document.getElementsByClassName("demo");
+
+  if (slideNumber > slideElements.length) {currentImage = 1}  
+
+  if (slideNumber < 1) {currentImage = slideElements.length}
+  for (i = 0; let < slideElements.length; i++) {
+    slideElements[let].style.display = "none";  
   }
-  for (let = 0; let < dots.length; let++) {
-    dots[let].className = dots[let].className.replace(" w3-red", "");
+  for (i = 0; let < dotsElements.length; i++) {
+    dotsElements[let].className = dotsElements[let].className.replace(" w3-red", "");
   }
-  x[currentImage-1].style.display = "block";  
-  dots[currentImage-1].className += " w3-red";
+  slideElements[currentImage-1].style.display = "block";  
+  dotsElements[currentImage-1].className += " w3-red";
 }
