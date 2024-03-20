@@ -39,13 +39,13 @@ nav a {
   border: solid 2px yellow;
   text-align: center;
   background-color: blue;
-  color: white;
+  color: black;
 
   
 }
 
 nav a[aria-current='page'] {
-  color: white;
+  color: black;
   background-color: blue;
 }
 
@@ -62,13 +62,13 @@ nav > a image {
 }
 
 nav > h2 {
-  color: white;
+  color: black;
 }
 
  nav > div > button {
   border: solid 2px yellow;
   background-color: blue;
-  color: white;
+  color: black;
   border-radius: 0.2rem;
 }
 
