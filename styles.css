@@ -90,6 +90,10 @@ h1 {
   
 }
 
+.Side {
+    display: none;
+}
+
 section {
   border: solid;
   display: flex;
