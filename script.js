@@ -15,9 +15,9 @@ var currentImage = 1;
 showDivs(currentImage);
 
 setInterval(
-    function () (
-       moveSlides(1)
-    ),
+    function (){
+        moveSlides(1)
+    },
     1000
 )
 
