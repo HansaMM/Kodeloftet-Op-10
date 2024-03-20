@@ -91,7 +91,7 @@ h1 {
 }
 
 .Side-main {
-    display: none;
+    border: solid;
 }
 
 section {
