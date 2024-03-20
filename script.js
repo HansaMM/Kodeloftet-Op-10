@@ -32,11 +32,11 @@ function showDivs(slideNumber) {
   if (slideNumber > slideElements.length) {currentImage = 1}  
 
   if (slideNumber < 1) {currentImage = slideElements.length}
-  for (i = 0; let < slideElements.length; i++) {
-    slideElements[let].style.display = "none";  
+  for (i = 0; i < slideElements.length; i++) {
+    slideElements[i].style.display = "none";  
   }
-  for (i = 0; let < dotsElements.length; i++) {
-    dotsElements[let].className = dotsElements[let].className.replace(" w3-red", "");
+  for (i = 0; i < dotsElements.length; i++) {
+    dotsElements[i].className = dotsElements[i].className.replace(" w3-red", "");
   }
   slideElements[currentImage-1].style.display = "block";  
   dotsElements[currentImage-1].className += " w3-red";
