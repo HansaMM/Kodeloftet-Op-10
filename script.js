@@ -14,6 +14,13 @@ function setStage(newStage) {
 var currentImage = 1;
 showDivs(currentImage);
 
+setInterval(
+    function () (
+       moveSlides(1)
+    ),
+    1000
+)
+
 function plusDivs(n) {
   showDivs(currentImage += n);
 }
