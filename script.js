@@ -15,10 +15,10 @@ var currentImage = 1;
 showDivs(currentImage);
 
 setInterval(
-    function (){
+    function () {
         plusDivs(1)
     },
-    1000
+    5000
 )
 
 function plusDivs(n) {
