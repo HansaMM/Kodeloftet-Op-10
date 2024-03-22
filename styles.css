@@ -98,16 +98,18 @@ h1 {
   display: none;
 }
 
-.mySlides > .folkemakt {
-    display: flex;
-    text-align: end;
-}
-
 .w3-button {
   display: none;
 }
 
+.folkemakt {
+  display: flex;
+}
 
+.folkemakt > h1 {
+  color: red;
+  text-align: end;
+}
 
 section {
   border: solid;
