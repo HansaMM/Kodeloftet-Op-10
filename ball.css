@@ -37,7 +37,7 @@
     animation-timing-function: linear;
 }
 
-object {
+.object {
     display: flex;
     align-items: center;
     justify-content: center;
