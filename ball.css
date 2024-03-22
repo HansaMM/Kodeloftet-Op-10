@@ -37,6 +37,12 @@
     animation-timing-function: linear;
 }
 
+object {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 @keyframes bouncing-ball {
      0% {
            
