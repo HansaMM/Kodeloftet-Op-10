@@ -31,3 +31,8 @@
     margin-right: auto;
 
 }
+
+.object > image {
+    align-items: center;
+    justify-content: center;
+}
