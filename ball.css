@@ -1,3 +1,8 @@
 .change-color {
     animation-name: changing-color;
+    animation-duration: 1s;
+
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
+
