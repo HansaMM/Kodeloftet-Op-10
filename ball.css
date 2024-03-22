@@ -14,9 +14,10 @@
     to {
        color: blue;
     }
+}
 
-
-
-
+.box-move {
+    background-color: black;
+    height: 600px;
 
 }
