@@ -49,13 +49,13 @@
        }
 
      90% {
-        transform: translateY(200px);
+        transform: translateY(550px);
         height: 100px;
         width: 100px;
      }  
 
      100%  {
-        transform: translateY(460px);
+        transform: translateY(560px);
         height: 80px;
         width: 120px;
      }  
