@@ -96,6 +96,7 @@ h1 {
 
 .mySlides {
   display: none;
+  display: flex;
 }
 
 .w3-button {
