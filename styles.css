@@ -104,6 +104,7 @@ h1 {
 
 .folkemakt {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .folkemakt > h1 {
