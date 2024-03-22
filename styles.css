@@ -111,6 +111,10 @@ h1 {
   text-align: end;
 }
 
+.folkemakt > p {
+  justify-content: end;
+}
+
 section {
   border: solid;
   display: flex;
