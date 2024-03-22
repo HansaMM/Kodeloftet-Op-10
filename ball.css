@@ -30,8 +30,18 @@
     margin-left: auto;
     margin-right: auto;
     
+    animation-name: bouncing-ball;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+
+@keyframes bouncing-ball {
 
 
 
 
+
+    
 }
