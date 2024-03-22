@@ -98,6 +98,12 @@ h1 {
   display: none;
 }
 
+.mySlides > image {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
 .w3-button {
   display: none;
 }
