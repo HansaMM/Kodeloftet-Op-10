@@ -61,3 +61,19 @@
      }  
 
 }
+
+.enter-left {
+     animation-name: enter-left;
+     animation-duration: 500ms;
+}
+
+@keyframes enter-left {
+      from {
+        transform: translateX(-100vw);
+      }
+
+      to {
+        transform: translateX(0px);
+      }
+
+}
