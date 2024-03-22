@@ -1,4 +1,4 @@
-.change-color {
+.endringer {
     animation-name: changing-color;
     animation-duration: 1s;
 
@@ -6,3 +6,17 @@
     animation-direction: alternate;
 }
 
+@keyframes changing-color {
+    form {
+       color: red;
+    }
+
+    to {
+       color: blue;
+    }
+
+
+
+
+
+}
