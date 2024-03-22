@@ -10,10 +10,6 @@ body {
 
 }
 
-.mySlides {
-  display: none
-}
-
 ol {
   list-style-type: none;
   padding: 0px;
@@ -97,6 +93,12 @@ h1 {
 .Side-main {
     border: solid;
 }
+
+.mySlides {
+  display: none
+}
+
+
 
 section {
   border: solid;
