@@ -98,7 +98,7 @@ h1 {
   display: none;
 }
 
-.mySlides > image {
+.mySlides > .folkemakt {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
