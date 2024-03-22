@@ -113,6 +113,7 @@ h1 {
 
 .folkemakt > p {
   justify-content: end;
+  text-align: end;
 }
 
 section {
