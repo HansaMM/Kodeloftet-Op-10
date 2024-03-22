@@ -45,11 +45,19 @@
 
 @keyframes bouncing-ball {
      0% {
-           
+           transform: translateY(0px);
        }
 
+     90% {
+        transform: translateY(550px);
+        height: 100px;
+        width: 100px;
+     }  
 
-
-
+     100%  {
+        transform: translateY(560px);
+        height: 80px;
+        width: 120px;
+     }  
 
 }
