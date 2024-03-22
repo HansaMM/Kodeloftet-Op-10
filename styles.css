@@ -114,12 +114,12 @@ h1 {
 
 .folkemakt > h1 {
   color: red;
-  text-align: end;
+  text-align: right;
 }
 
 .folkemakt > p {
-  justify-content: end;
-  text-align: end;
+  justify-content: right;
+  text-align: right;
 }
 
 section {
