@@ -102,6 +102,7 @@ h1 {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    text-align: end;
 }
 
 .w3-button {
