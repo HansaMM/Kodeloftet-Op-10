@@ -45,7 +45,7 @@
 
 @keyframes bouncing-ball {
      0% {
-           transform: translateY(0px);
+           transform: translateY(-100px);
        }
 
      90% {
