@@ -145,8 +145,6 @@ footer {
   border: solid 2px yellow;
   background-color: blue;
   justify-content: space-between;
+  color: white;
 }
 
-footer p {
-    color: white;
-}
