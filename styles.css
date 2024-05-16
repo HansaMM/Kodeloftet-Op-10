@@ -145,3 +145,7 @@ footer {
   border: solid 2px yellow;
   background-color: blue;
 }
+
+footer p {
+    color: white;
+}
