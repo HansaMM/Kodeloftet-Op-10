@@ -145,7 +145,11 @@ section {
   margin: 0%;
 }
 
-
+section > div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
 
 footer {
   border: solid;
