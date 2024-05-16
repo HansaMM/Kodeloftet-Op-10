@@ -148,4 +148,5 @@ footer {
 
 footer p {
     color: white;
+    justify-content: space-between;
 }
