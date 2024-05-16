@@ -81,8 +81,9 @@ nav > h2 {
   height: 155px;
 }
 
-@media screen and (max-width:375px) {
-  .logo {width: 320px;
+
+@media screen and (max-width:376px) {
+  *{max-width: 375px;
   }
 }
 
