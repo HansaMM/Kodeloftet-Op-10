@@ -153,3 +153,8 @@ footer {
   text-align: left;
   text-wrap: row;
 }
+
+.Org-info {
+  text-align: right;
+  text-wrap: row;
+}
