@@ -144,9 +144,9 @@ footer {
   border-radius: 0.2rem;
   border: solid 2px yellow;
   background-color: blue;
+  justify-content: space-between;
 }
 
 footer p {
     color: white;
-    justify-content: space-between;
 }
