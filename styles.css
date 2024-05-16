@@ -86,6 +86,11 @@ nav > h2 {
   }
 }
 
+.Valg {
+  display: flex;
+  flex-direction: column;
+}
+
 main {
   padding: 1rem;
 }
