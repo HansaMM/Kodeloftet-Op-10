@@ -146,5 +146,6 @@ footer {
   background-color: blue;
   justify-content: space-between;
   color: white;
+  text-align: row;
 }
 
