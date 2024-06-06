@@ -8,5 +8,5 @@
 .nav-links {
     display: flex;
     display: grid;
-    display: hidden;
+    display: none;
 }
