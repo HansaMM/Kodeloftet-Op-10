@@ -9,4 +9,5 @@
 .nav-links {
     display: flex;
     display: grid;
+    display: none;
 }
