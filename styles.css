@@ -89,7 +89,7 @@ nav > h2 {
 
 .Valg {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 main {
