@@ -21,6 +21,7 @@ body > main > h1 {
 
 nav {
   display: flex;
+  direction: center;
   padding: 0.5rem;
   gap: 0.5rem;
   background-color: red;
