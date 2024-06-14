@@ -55,7 +55,7 @@ ul {
     text-decoration: none;
     display: block;
     text-align: center;
-    border-radius: 0.2rem;
+    border-radius: 2px;
     border: solid 2px yellow;
   }
   
