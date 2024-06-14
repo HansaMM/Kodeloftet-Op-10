@@ -167,3 +167,7 @@ footer {
   text-align: right;
   text-wrap: row;
 }
+
+address > a {
+  color: white;
+}
