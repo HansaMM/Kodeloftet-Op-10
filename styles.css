@@ -192,5 +192,5 @@ label {
 
 iframe {
   border: 1px solid yellow;
-  width: 25%; /* takes precedence over the width set with the HTML width attribute */
+  width: 25%; 
 }
