@@ -1,6 +1,6 @@
 let navLinks = document.querySelector(".nav-links");
-let menuOpenBtn = document.querySelector(".navbar .bx-menu");
-let menuCloseBtn = document.querySelector(".nav-links .bx-x");
+let menuOpenBtn = document.querySelector(".hoved-meny");
+let menuCloseBtn = document.querySelector(".nav-links ");
 menuOpenBtn.onclick = function() {
 navLinks.style.left = "0";
 }
@@ -8,8 +8,8 @@ menuCloseBtn.onclick = function() {
 navLinks.style.left = "-100%";
 }
 // sidebar submenu open close js code
-let htmlcssArrow = document.querySelector(".htmlcss-arrow");
-htmlcssArrow.onclick = function() {
+let hoved-meny = document.querySelector(".hoved-meny");
+hoved-meny.onclick = function() {
  navLinks.classList.toggle("show1");
 }
 let moreArrow = document.querySelector(".more-arrow");
