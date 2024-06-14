@@ -12,11 +12,11 @@ let hoved-meny = document.querySelector(".hoved-meny");
 hoved-meny.onclick = function() {
  navLinks.classList.toggle("show1");
 }
-let moreArrow = document.querySelector(".more-arrow");
-moreArrow.onclick = function() {
+let link-meny-2 = document.querySelector(".link-meny-2");
+link-meny-2.onclick = function() {
  navLinks.classList.toggle("show2");
 }
-let jsArrow = document.querySelector(".js-arrow");
-jsArrow.onclick = function() {
+let link-meny-3 = document.querySelector(".link-meny-3");
+link-meny-3.onclick = function() {
  navLinks.classList.toggle("show3");
 }
