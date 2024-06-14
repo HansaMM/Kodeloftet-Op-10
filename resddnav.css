@@ -11,3 +11,7 @@
     display: grid;
     display: none;
 }
+
+.nav-links:hover {
+    display: grid;
+}
