@@ -2,12 +2,10 @@
      display: flex;
      flex-wrap: wrap;
      flex-direction: column;
-        gap: 5px;
-        width: 500px;
-        height: 500px;
-        border: solid;
-        border-color: red;
-        text-align: center;
+     gap: 5px;
+     border: solid;
+     border-color: yellow;
+     text-align: center;
     
         
     }
