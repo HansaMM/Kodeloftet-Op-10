@@ -11,10 +11,11 @@
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
-        gap: 10px;
+        gap: 5px;
         width: 500px;
         height: 500px;
         border: solid;
         border-color: red;
         text-align: center;
+        text-emphasis: center;
     }
