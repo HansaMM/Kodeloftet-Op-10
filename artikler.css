@@ -1,3 +1,11 @@
+
+.artikler {
+    display: grid;
+    gap: 10px;
+}
+
+
+
 .articler-liste {
     display: flex;
     flex-wrap: wrap;
