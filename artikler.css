@@ -1,7 +1,6 @@
 .artikler {
      display: flex;
      flex-wrap: wrap;
-     flex-direction: column;
      gap: 5px;
      border: solid;
      border-color: yellow;
