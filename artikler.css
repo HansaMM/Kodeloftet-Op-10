@@ -4,6 +4,7 @@
      gap: 5px;
      border: solid;
      border-color: yellow;
+     max-width: 480px;
     }
 
     .artikler-kontainer {
