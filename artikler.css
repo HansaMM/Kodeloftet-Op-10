@@ -9,8 +9,6 @@
 
     .artikler-kontainer {
         background-color: white;
-        text-wrap: wrap;
-        text-align: center;
         gap: 5px;
     }
 
