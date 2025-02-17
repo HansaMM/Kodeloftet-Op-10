@@ -5,6 +5,8 @@
      gap: 5px;
      border: solid;
      border-color: yellow;
+     max-width: 480px;
+     margin: auto;
     }
 
     .artikler-kontainer {
@@ -14,4 +16,3 @@
         gap: 5px;
     }
 
-    
